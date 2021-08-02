@@ -2,11 +2,19 @@
   "posts": [
     {
       "id": 1,
-      "title": "hello"
+      "Outgoing": "hello",
+      "Recieved": [
+        {
+          "poop:username"
+        }]
     },
     {
       "id": 2,
-      "title": "hi"
+      "Outgoing": "hello",
+      "Recieved": [
+        {
+          "pee:username"
+        }]
     }
   ],
   "profile": {
